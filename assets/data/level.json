@@ -1,0 +1,1238 @@
+{
+  "playerData": {
+    "key": "tank",
+    "x": 500,
+    "y": 650,
+    "hitPoints": 200,
+    "speed": 60,
+    "armor": 0,
+    "bulletSpeed": 100
+  },
+  "enemyData": [
+    {
+      "key": "enemy_blue",
+      "text": "ENEMY_BLUE",
+      "hitPoints": 300,
+      "x": 750,
+      "y": 700,
+      "speed": 70
+    },
+    {
+      "key": "enemy_red",
+      "text": "ENEMY_RED",
+      "hitPoints": 400,
+      "x": 350,
+      "y": 350,
+      "speed": 80
+    },
+    {
+      "key": "enemy_white",
+      "text": "ENEMY_WHITE",
+      "hitPoints": 200,
+      "x": 70,
+      "y": 100,
+      "speed": 75
+    }
+  ],
+  "bonusesData": [
+    {
+      "key": "bonus_immortal",
+      "text": "BONUS_IMMORTAL",
+      "audio": "bonus",
+      "x": 150,
+      "y": 400
+    },
+    {
+      "key": "bonus_live",
+      "text": "BONUS_LIVE",
+      "audio": "bonus",
+      "x": 800,
+      "y": 50
+    },
+    {
+      "key": "bonus_slow",
+      "text": "BONUS_SLOW",
+      "audio": "bonus",
+      "x": 100,
+      "y": 100
+    },
+    {
+      "key": "bonus_speed",
+      "text": "BONUS_SPEED",
+      "audio": "bonus",
+      "x": 800,
+      "y": 500
+    }
+  ],
+  "brickFrequency": 5,
+  "bricksData": [
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 350
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 368
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 386
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 404
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 422
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 440
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 458
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 476
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 494
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 200,
+      "y": 512
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 350
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 368
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 386
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 404
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 422
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 440
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 458
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 476
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 494
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 218,
+      "y": 512
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 350
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 368
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 386
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 404
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 422
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 440
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 458
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 476
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 494
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 236,
+      "y": 512
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 350
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 368
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 386
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 404
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 422
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 440
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 458
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 476
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 494
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 700,
+      "y": 512
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 350
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 368
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 386
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 404
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 422
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 440
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 458
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 476
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 494
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 682,
+      "y": 512
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 392,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 408,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 426,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 444,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 462,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 380,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 398,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 426,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 444,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 462,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 500,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 518,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 536,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 554,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 572,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 590,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 608,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 626,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 644,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 672,
+      "y": 312
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 454,
+      "y": 725
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 454,
+      "y": 707
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 454,
+      "y": 689
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 480,
+      "y": 725
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 472,
+      "y": 725
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 480,
+      "y": 707
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 472,
+      "y": 707
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 472,
+      "y": 689
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 480,
+      "y": 689
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 498,
+      "y": 689
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 516,
+      "y": 689
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 534,
+      "y": 689
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 534,
+      "y": 707
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 534,
+      "y": 725
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 552,
+      "y": 689
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 552,
+      "y": 707
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 552,
+      "y": 725
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 560,
+      "y": 725
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 560,
+      "y": 707
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 560,
+      "y": 689
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 560,
+      "y": 680
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 548,
+      "y": 680
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 530,
+      "y": 680
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 518,
+      "y": 680
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 500,
+      "y": 680
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 488,
+      "y": 680
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 470,
+      "y": 680
+    },
+    {
+      "key": "brick",
+      "text": "Brick",
+      "x": 454,
+      "y": 680
+    }
+  ],
+  "waterData": [
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 400,
+      "y": 400
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 436,
+      "y": 400
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 472,
+      "y": 400
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 508,
+      "y": 400
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 400,
+      "y": 436
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 436,
+      "y": 436
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 472,
+      "y": 436
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 508,
+      "y": 436
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 100,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 136,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 172,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 208,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 244,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 692,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 728,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 764,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 800,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 280,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 836,
+      "y": 200
+    },
+    {
+      "key": "water",
+      "text": "Water",
+      "x": 872,
+      "y": 200
+    }
+  ],
+  "leavesData": [
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 36,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 36,
+      "y": 200
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 36,
+      "y": 236
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 36,
+      "y": 272
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 36,
+      "y": 308
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 36,
+      "y": 344
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 36,
+      "y": 380
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 36,
+      "y": 416
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 72,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 108,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 144,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 180,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 192,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 200,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 218,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 236,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 252,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 270,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 282,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 290,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 308,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 322,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 336,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 352,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 370,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 388,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 402,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 420,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 438,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 454,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 472,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 490,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 508,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 524,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 542,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 560,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 578,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 592,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 610,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 628,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 650,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 670,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 700,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 718,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 736,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 754,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 770,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 788,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 802,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 820,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 828,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 842,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 852,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 870,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 882,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 890,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 908,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 922,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 940,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 164
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 655,
+      "y": 182
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 200
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 218
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 236
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 252
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 270
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 288
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 306
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 322
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 340
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 358
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 372
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 9552,
+      "y": 390
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 408
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 422
+    },
+    {
+      "key": "leaves",
+      "text": "Leaves",
+      "x": 955,
+      "y": 440
+    }
+  ]
+}
