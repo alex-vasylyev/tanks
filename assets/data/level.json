@@ -3,7 +3,7 @@
     "key": "tank",
     "x": 500,
     "y": 650,
-    "hitPoints": 200,
+    "hitPoints": 100,
     "speed": 60,
     "armor": 0,
     "bulletSpeed": 100
